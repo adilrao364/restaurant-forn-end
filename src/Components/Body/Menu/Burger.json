@@ -1,0 +1,72 @@
+{
+    "1": {
+        "name": "Beefy Burgers",
+        "ratings": "⭐️⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "3",
+        "burgerImg": "./Images/b1.jpg"
+    },
+    "2": {
+        "name": "Burger Boys",
+        "ratings": "⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "7",
+        "burgerImg": "./Images/b2.jpg"
+    },
+    "3": {
+        "name": "Crackles Burger",
+        "ratings": "⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "5",
+        "burgerImg": "./Images/b3.jpg"
+    },
+    "4": {
+        "name": "Burger Bizz",
+        "ratings": "⭐️⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "7",
+        "burgerImg": "./Images/b4.jpg"
+    },
+    "5": {
+        "name": "Rocket Burgers",
+        "ratings": "⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "11",
+        "burgerImg": "./Images/b5.jpg"
+    },
+    "6": {
+        "name": "Bull Burgers",
+        "ratings": "⭐️⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "9",
+        "burgerImg": "./Images/b6.jpg"
+    },
+    "7": {
+        "name": "Delish Burger",
+        "ratings": "⭐️⭐️⭐️⭐",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "4",
+        "burgerImg": "./Images/six.jpg"
+    },
+    "8": {
+        "name": "Smokin Burger",
+        "ratings": "⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "3",
+        "burgerImg": "./Images/b7.jpg"
+    },
+    "9": {
+        "name": "Allens Burger",
+        "ratings": "⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "4",
+        "burgerImg": "./Images/b8.jpg"
+    },
+    "10": {
+        "name": "Bymark Burger",
+        "ratings": "⭐️⭐️⭐️⭐️⭐️",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita ad delectus soluta repellat, corporis dolorem animi id. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur at aliquid odio quo quae nesciunt suscipit expedita.",
+        "price": "2",
+        "burgerImg": "./Images/four.jpg"
+    }
+}
